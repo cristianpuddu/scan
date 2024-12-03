@@ -21,11 +21,14 @@ then
 	-P zap $pid \
 	-O file $directory_img/ts_capture.ts
 
-	if [ $(stat -c%s "$directory_img/ts_capture.ts") -gt 100 ]; then
-		echo "--> trovato TS DVB-T2 salto la scansione DVB-T"
+	if [ -f "$directory_img/ts_capture.ts" ] && [ $(stat -c%s "$directory_img/ts_capture.ts") -gt 100 ]; then
+    echo "--> trovato TS DVB-T2 salto la scansione DVB-T"
 	else
+    echo "--> TS non trovato o dimensione troppo piccola, procedo con la scansione DVB-T"
+
+
 	
-		tsp -I dvb --delivery-system DVB- --uhf-channel $Ch \
+		tsp -I dvb --delivery-system DVB-T --uhf-channel $Ch \
 		-P until --seconds 10 \
 		-P zap $pid \
 		-O file $directory_img/ts_capture.ts
