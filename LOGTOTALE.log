@@ -1,0 +1,181 @@
+06-00 creazione /dev/shm/scansioni/22-09-2024-06
+06-00 inizio scansione
+**** scansione canali UHF ****
+====> 06-00 Tsscan su  -l --uhf-band - CH 21 
+====> 06-00 dvb --uhf-channel -- 21
+----> 06-01 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-21.txt
+/dev/shm/scansioni/22-09-2024-06/psi-21.txt
+====> 06-02 Tsscan su  -l --uhf-band - CH 22 
+----> 06-02 rimuovo perché <30 tsscan22.xml
+====> 06-02 Tsscan su  -l --uhf-band - CH 23 
+----> 06-02 rimuovo perché <30 tsscan23.xml
+====> 06-02 Tsscan su  -l --uhf-band - CH 24 
+====> 06-02 dvb --uhf-channel -- 24
+----> 06-04 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-24.txt
+/dev/shm/scansioni/22-09-2024-06/psi-24.txt
+====> 06-04 Tsscan su  -l --uhf-band - CH 25 
+----> 06-04 rimuovo perché <30 tsscan25.xml
+====> 06-04 Tsscan su  -l --uhf-band - CH 26 
+====> 06-04 dvb --uhf-channel -- 26
+----> 06-06 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-26.txt
+/dev/shm/scansioni/22-09-2024-06/psi-26.txt
+====> 06-06 Tsscan su  -l --uhf-band - CH 27 
+----> 06-06 rimuovo perché <30 tsscan27.xml
+====> 06-06 Tsscan su  -l --uhf-band - CH 28 
+----> 06-06 rimuovo perché <30 tsscan28.xml
+====> 06-06 Tsscan su  -l --uhf-band - CH 29 
+====> 06-07 dvb --uhf-channel -- 29
+----> 06-08 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-29.txt
+/dev/shm/scansioni/22-09-2024-06/psi-29.txt
+====> 06-08 Tsscan su  -l --uhf-band - CH 30 
+----> 06-09 rimuovo perché <30 tsscan30.xml
+====> 06-09 Tsscan su  -l --uhf-band - CH 31 
+----> 06-09 rimuovo perché <30 tsscan31.xml
+====> 06-09 Tsscan su  -l --uhf-band - CH 32 
+====> 06-09 dvb --uhf-channel -- 32
+----> 06-11 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-32.txt
+/dev/shm/scansioni/22-09-2024-06/psi-32.txt
+====> 06-11 Tsscan su  -l --uhf-band - CH 33 
+----> 06-11 rimuovo perché <30 tsscan33.xml
+====> 06-11 Tsscan su  -l --uhf-band - CH 34 
+----> 06-11 rimuovo perché <30 tsscan34.xml
+====> 06-11 Tsscan su  -l --uhf-band - CH 35 
+----> 06-11 rimuovo perché <30 tsscan35.xml
+====> 06-11 Tsscan su  -l --uhf-band - CH 36 
+====> 06-11 dvb --uhf-channel -- 36
+----> 06-13 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-36.txt
+/dev/shm/scansioni/22-09-2024-06/psi-36.txt
+====> 06-13 Tsscan su  -l --uhf-band - CH 37 
+----> 06-13 rimuovo perché <30 tsscan37.xml
+====> 06-13 Tsscan su  -l --uhf-band - CH 38 
+----> 06-14 rimuovo perché <30 tsscan38.xml
+====> 06-14 Tsscan su  -l --uhf-band - CH 39 
+====> 06-14 dvb --uhf-channel -- 39
+----> 06-16 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-39.txt
+/dev/shm/scansioni/22-09-2024-06/psi-39.txt
+====> 06-16 Tsscan su  -l --uhf-band - CH 40 
+====> 06-16 dvb --uhf-channel -- 40
+--> Trovato mux DVB-T2 salto la scansione DVB-T 
+----> 06-18 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-40.txt
+/dev/shm/scansioni/22-09-2024-06/psi-40.txt
+====> 06-18 Tsscan su  -l --uhf-band - CH 41 
+----> 06-18 rimuovo perché <30 tsscan41.xml
+====> 06-18 Tsscan su  -l --uhf-band - CH 42 
+====> 06-18 dvb --uhf-channel -- 42
+----> 06-20 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-42.txt
+/dev/shm/scansioni/22-09-2024-06/psi-42.txt
+====> 06-20 Tsscan su  -l --uhf-band - CH 43 
+====> 06-20 dvb --uhf-channel -- 43
+----> 06-22 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-43.txt
+/dev/shm/scansioni/22-09-2024-06/psi-43.txt
+====> 06-22 Tsscan su  -l --uhf-band - CH 44 
+----> 06-22 rimuovo perché <30 tsscan44.xml
+====> 06-22 Tsscan su  -l --uhf-band - CH 45 
+----> 06-22 rimuovo perché <30 tsscan45.xml
+====> 06-22 Tsscan su  -l --uhf-band - CH 46 
+====> 06-22 dvb --uhf-channel -- 46
+----> 06-24 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-46.txt
+/dev/shm/scansioni/22-09-2024-06/psi-46.txt
+====> 06-24 Tsscan su  -l --uhf-band - CH 47 
+====> 06-24 dvb --uhf-channel -- 47
+----> 06-26 conversione file pdf eliminazione txt originali
+/dev/shm/scansioni/22-09-2024-06/analyze-47.txt
+/dev/shm/scansioni/22-09-2024-06/psi-47.txt
+====> 06-26 Tsscan su  -l --uhf-band - CH 48 
+----> 06-26 rimuovo perché <30 tsscan48.xml
+====> 06-26 Tsscan su  -l --uhf-band - CH 49 
+----> 06-26 rimuovo perché <30 tsscan49.xml
+06-26 elimino file inutili
+====> 06-26 chiamo script creazione json pid
+creazione cartella inout
+06-50 comprimo i files
+./
+./tsscan21.xml
+./nid-21.json
+./analyze-21.json
+./analyze-21.pdf
+./psi-21.pdf
+./tsscan24.xml
+./nid-24.json
+./analyze-24.json
+./analyze-24.pdf
+./psi-24.pdf
+./tsscan26.xml
+./nid-26.json
+./analyze-26.json
+./analyze-26.pdf
+./psi-26.pdf
+./tsscan29.xml
+./nid-29.json
+./analyze-29.json
+./analyze-29.pdf
+./psi-29.pdf
+./tsscan32.xml
+./nid-32.json
+./analyze-32.json
+./analyze-32.pdf
+./psi-32.pdf
+./tsscan36.xml
+./nid-36.json
+./analyze-36.json
+./analyze-36.pdf
+./psi-36.pdf
+./tsscan39.xml
+./nid-39.json
+./analyze-39.json
+./analyze-39.pdf
+./psi-39.pdf
+./tsscan40.xml
+./nid-40.json
+./analyze-40.json
+./analyze-40.pdf
+./psi-40.pdf
+./tsscan42.xml
+./nid-42.json
+./analyze-42.json
+./analyze-42.pdf
+./psi-42.pdf
+./tsscan43.xml
+./nid-43.json
+./analyze-43.json
+./analyze-43.pdf
+./psi-43.pdf
+./tsscan46.xml
+./nid-46.json
+./analyze-46.json
+./analyze-46.pdf
+./psi-46.pdf
+./tsscan47.xml
+./nid-47.json
+./analyze-47.json
+./analyze-47.pdf
+./psi-47.pdf
+./21pid.json
+./24pid.json
+./26pid.json
+./29pid.json
+./32pid.json
+./36pid.json
+./39pid.json
+./40pid.json
+./42pid.json
+./43pid.json
+./46pid.json
+./47pid.json
+----> 06-50 tentativo per upload file
+ok file caricato
+procedo con pulizia cartella
+tempo richiesto in minuti
+50:53
+--------------------------------Fine!
