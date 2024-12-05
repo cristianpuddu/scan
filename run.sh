@@ -39,8 +39,9 @@ function scansionetts() {
 	filesize=$(stat -c%s "$directory/tsscan$2.xml")
 
 	if (($filesize > 50)); then
-		if (($ORA >= 11 && $ORA < 17)); then
-			echo "$(date +%H-%M) chiamo script readxml per immagini"
+		if (($ORA >= 11 && $ORA < 17)); 
+			echo "ho trovato delle emittenti!"
+			echo "$(date +%H-%M) chiamo script readxml per creare sccreenshot"
 			python3 /home/pi/scan/capture/readxml.py $directory/tsscan$2.xml $2 $dirImage
 		fi
 	else
@@ -56,7 +57,7 @@ function scansione() {
 	if [ -n "$(find "$directory/tsscan$ch.xml")" ]; then
 		echo "====> $(date +%H-%M) dvb $1 -- $2"
 
-		ls $1 $2 \
+		tsp -I dvb --delivery-system DVB-T2 $1 $2 \
 			-P skip 5000 \
 			-P until -s 100 \
 			-P pcrbitrate \
