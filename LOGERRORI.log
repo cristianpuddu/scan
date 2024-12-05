@@ -1,44 +1,0 @@
-TERM environment variable not set.
-* Error: dvb: no input signal lock after 5000 milliseconds
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan22.xml’: File o directory non esistente
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan23.xml’: File o directory non esistente
-* Error: dvb: no input signal lock after 5000 milliseconds
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan25.xml’: File o directory non esistente
-* Error: dvb: no input signal lock after 5000 milliseconds
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan27.xml’: File o directory non esistente
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan28.xml’: File o directory non esistente
-* Error: dvb: no input signal lock after 5000 milliseconds
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan30.xml’: File o directory non esistente
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan31.xml’: File o directory non esistente
-* Error: dvb: no input signal lock after 5000 milliseconds
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan33.xml’: File o directory non esistente
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan34.xml’: File o directory non esistente
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan35.xml’: File o directory non esistente
-* Error: dvb: no input signal lock after 5000 milliseconds
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan37.xml’: File o directory non esistente
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan38.xml’: File o directory non esistente
-* Error: dvb: no input signal lock after 5000 milliseconds
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan41.xml’: File o directory non esistente
-* Error: dvb: no input signal lock after 5000 milliseconds
-* Error: dvb: no input signal lock after 5000 milliseconds
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan44.xml’: File o directory non esistente
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan45.xml’: File o directory non esistente
-* Error: dvb: no input signal lock after 5000 milliseconds
-* Error: dvb: no input signal lock after 5000 milliseconds
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan48.xml’: File o directory non esistente
-find: ‘/dev/shm/scansioni/22-09-2024-06/tsscan49.xml’: File o directory non esistente
-nomeFile READ analyze-21.json
-nomeFile READ analyze-24.json
-nomeFile READ analyze-26.json
-nomeFile READ analyze-29.json
-nomeFile READ analyze-32.json
-nomeFile READ analyze-36.json
-nomeFile READ analyze-39.json
-nomeFile READ analyze-40.json
-nomeFile READ analyze-42.json
-nomeFile READ analyze-43.json
-nomeFile READ analyze-46.json
-nomeFile READ analyze-47.json
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0 29 1305k    0     0   29  384k      0  37444  0:00:35  0:00:10  0:00:25 78439 73 1305k    0     0   73  960k      0  86066  0:00:15  0:00:11  0:00:04  194k100 1305k    0     2  100 1305k      0   108k  0:00:11  0:00:11 --:--:--  289k
