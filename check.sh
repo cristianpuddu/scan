@@ -6,3 +6,5 @@ chmod a+x capture/readxml.py
 chmod a+x pidscan/analisi.sh
 chmod a+x pidscan/read.sh
 chmod a+x pdf.py
+chmod a+x run.sh
+echo "Ho impostato i file eseguibili!"
