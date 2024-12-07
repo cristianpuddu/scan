@@ -1,5 +1,13 @@
 #!/bin/bash
-source .env
+# Carica le variabili dal file .env
+export TERM=xterm
+if [ -f .env ]; then
+    source .env
+else
+    echo "Errore: file .env non trovato nella directory corrente"
+    exit 1
+fi
+
 START=$(date +%s) #per calcolare il tempo script
 clear
 DATE=$(date +%d-%m-%Y-%H)
